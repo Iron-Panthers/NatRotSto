@@ -1,4 +1,5 @@
-class Handle {
+class Handle 
+{
 	/*Init different variables for the object*/
 	
 	//Type of handle

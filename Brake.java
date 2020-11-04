@@ -1,4 +1,5 @@
-class Brake {
+class Brake 
+{
 	//Init different variables for the object
     public String brake_type;
     

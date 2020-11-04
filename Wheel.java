@@ -1,4 +1,5 @@
-class Wheel {
+class Wheel 
+{
 	//Init different variables for the object
     public String wheel_type;
     

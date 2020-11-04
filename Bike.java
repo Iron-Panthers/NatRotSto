@@ -1,7 +1,9 @@
 
 
-class Bike {
-    public static void main(String[] args) {
+class Bike 
+{
+    public static void main(String[] args) 
+    {
 		//The bike's handle
 		Handle bike_handle = new Handle("Aero bars", "Aluminum", true);
 		

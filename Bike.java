@@ -12,8 +12,6 @@ class Bike
 		
 		//The bike's wheel type
 		Wheel bike_wheel = new Wheel("Clincher");
-		
-		System.out.println(bike_handle.has_grip);
         
     }
 }

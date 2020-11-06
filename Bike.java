@@ -11,7 +11,9 @@ class Bike
 		Brake bike_brake = new Brake("V-Brales");
 		
 		//The bike's wheel type
-		Wheel bike_wheel = new Wheel("Clincher")
+		Wheel bike_wheel = new Wheel("Clincher");
+		
+		System.out.println(bike_handle.has_grip);
         
     }
 }

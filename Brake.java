@@ -1,11 +1,14 @@
-class Brake {
+public class Brake {
 	//Init different variables for the object
-    public String brake_type;
-    
-    public Brake(String type)
-    {
+    public boolean isWorking;
+	public String brakeType;
+
+	public Brake(boolean isWorking, String brakeType) { 
+
 		//Set values to initialized variables
-		brake_type = type;
+
+		this.isWorking = isWorking
+		brakeType = type
 	}
-	
+
 }
